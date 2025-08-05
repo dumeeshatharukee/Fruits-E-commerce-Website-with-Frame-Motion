@@ -33,4 +33,14 @@ A complete, fully responsive **Fruits Selling E-commerce Website** built with **
 
 ## 📸 Screenshots
 
+
+ <img width="1655" height="724" alt="Image" src="https://github.com/user-attachments/assets/831bb1ae-ec07-4b3b-afe7-07c24ec83ac6" />
  
+
+<img width="1721" height="731" alt="Image" src="https://github.com/user-attachments/assets/0fd9b403-c133-46a4-9711-433a574f013f" />
+
+
+<img width="1708" height="725" alt="Image" src="https://github.com/user-attachments/assets/88cea7da-5a6e-49f3-a84a-58b69ca99e9d" />
+
+
+<img width="1664" height="726" alt="Image" src="https://github.com/user-attachments/assets/6f3fd353-0136-4a7d-8c0c-3e76bf7a9c72" />
